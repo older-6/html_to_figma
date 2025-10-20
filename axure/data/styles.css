@@ -1,0 +1,170 @@
+﻿.ax_default {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+._一级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+._文本段落 {
+  text-align:left;
+}
+._文本链接 {
+  color:#0000FF;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+._流程形状 {
+}
+.shape {
+}
+.box_1 {
+}
+.box_2 {
+}
+.image {
+  color:#000000;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.heading_1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+._默认样式 {
+}
+._文本链接1 {
+  color:#409EFF;
+}
+._链接悬停 {
+  color:#66B1FF;
+}
+._链接按下 {
+}
+.checkbox {
+  text-align:left;
+}
+.box_11 {
+}
+._默认样式1 {
+  font-family:'思源黑体 Light', '思源黑体';
+  font-weight:300;
+  font-style:normal;
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.button {
+}
+._图片 {
+}
+.ellipse {
+}
+.heading_2 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.line {
+}
+.line1 {
+}
+.sticky_1 {
+  text-align:left;
+}
+.box_3 {
+}
+.placeholder {
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.table_cell {
+}
+.vertical_line {
+}
+.iconfont {
+  font-family:'iconfont Regular', 'iconfont';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
+}
+.icon {
+}
+._图片1 {
+  color:#000000;
+}
+._形状 {
+}
+.icon1 {
+}
+.flow_shape {
+}
+.marker {
+  color:#FFFFFF;
+}
+textarea, select, input, button { outline: none; }
